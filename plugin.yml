@@ -12,5 +12,5 @@ permissions:
     default: op
     description: Allows to view registered servers
   slashserver.command.servers:
-    default: op
+    default: true
     description: Allows to open servers menu
